@@ -13,7 +13,7 @@ public class Solution {
            h.put(nums[i],1);
            
        else
-       return true;
        return false;
+       return true;
     }
 }
